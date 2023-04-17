@@ -1,0 +1,11 @@
+{
+  "name": "servidornode",
+  "version": "1.0.0",
+  "description": "Teste em Aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Nogueira",
+  "license": "CC-BY-4.0"
+}
